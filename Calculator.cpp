@@ -7,11 +7,11 @@ int main() {
     std::cout << "Welcome to the Basic Calculator!\n";
 
     // Input first number
-    std::cout << "Enter the first number: ";
+    std::cout << "Enter the 1 number: ";
     std::cin >> num1;
 
     // Input second number
-    std::cout << "Enter the second number: ";
+    std::cout << "Enter the 2 number: ";
     std::cin >> num2;
 
     // Choose operation
